@@ -144,5 +144,4 @@ def main():
             print("Opção inválida, tente novamente.")
 
 # Executando o programa
-if __name__ == "__main__":
-    main()
+main()
